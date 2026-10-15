@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile-card.svg" width="100%" alt="profile.sh: Ibrahim Elsayed, Robotics & Systems Integration Engineer, Dubai">
+  <img src="./profile-card-live.svg" width="100%" alt="profile.sh: Ibrahim Elsayed, Robotics & Systems Integration Engineer, Dubai">
 </p>
 
 <h2 align="center">Welcome to my robotics workshop 🤖</h2>
@@ -7,7 +7,7 @@
 <p align="center"><b>I build robots and the software that keeps them working outside the lab.</b></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ibrahimelsayed804&label=Profile%20views&color=22d3ee&style=flat" alt="profile views">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ibrahimelsayed804.ibrahimelsayed804&left_text=Profile%20views&left_color=0b1026&right_color=22d3ee" alt="profile views">
 </p>
 
 ---
