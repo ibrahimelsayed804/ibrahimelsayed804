@@ -76,9 +76,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ibrahimelsayed804&theme=tokyonight&hide_border=true" alt="GitHub streak">
 </p>
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahimelsayed804&theme=tokyo-night&hide_border=true" alt="Contribution activity graph">
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ibrahimelsayed804/ibrahimelsayed804/output/github-snake-dark.svg" alt="Contribution snake">
