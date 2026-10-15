@@ -69,6 +69,12 @@
 - Linux and a firewall on every Raspberry Pi, subnetting, remote monitoring and control
 - Wazuh SIEM and Checkmk for security and health monitoring
 
+**5. Trash Collection & Classification Machine** (prototype)
+- Motor-driven, multi-tier rotating sieve that separates mixed waste by size
+- A fixed guide wall sweeps sorted items off the tray into a collection bin
+
+<img src="./waste-sorter.gif" width="420" alt="Rotating multi-tier waste sorter running">
+
 **Repositories:** [bioloid-humanoid-cm530](https://github.com/ibrahimelsayed804/bioloid-humanoid-cm530) · [Indoor-Air-Quality-Monitor](https://github.com/ibrahimelsayed804/Indoor-Air-Quality-Monitor)
 
 ### 📊 GitHub stats
