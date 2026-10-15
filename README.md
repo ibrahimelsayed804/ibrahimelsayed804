@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile-card-live.svg" width="100%" alt="profile.sh: Ibrahim Elsayed, Robotics & Systems Integration Engineer, Dubai">
+  <img src="./profile-card-v3.svg" width="100%" alt="profile.sh: Ibrahim Elsayed, Robotics & Systems Integration Engineer, Dubai">
 </p>
 
 <h2 align="center">Welcome to my robotics workshop 🤖</h2>
@@ -33,9 +33,10 @@
 ### 🧰 Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,py,linux,ubuntu,docker,git,raspberrypi,arduino,matlab,bash&theme=dark" alt="C++, Python, Linux, Ubuntu, Docker, Git, Raspberry Pi, Arduino, MATLAB, Bash">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,linux,ubuntu,docker,git,raspberrypi,arduino,matlab,bash&theme=dark" alt="C, C++, Python, Linux, Ubuntu, Docker, Git, Raspberry Pi, Arduino, MATLAB, Bash">
 </p>
 <p>
+  <img src="https://img.shields.io/badge/Embedded%20C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="Embedded C">
   <img src="https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS 2">
   <img src="https://img.shields.io/badge/DDS-0b1026?style=flat-square" alt="DDS">
   <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" alt="MQTT">
