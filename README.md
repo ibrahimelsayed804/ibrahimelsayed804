@@ -52,6 +52,14 @@
 
 ### 🚀 Projects
 
+**⭐ Final Year Project — Cloud-Based IoT Indoor Air Quality Monitor** (UOW Malaysia, 2025)
+- Multi-point sensor network (SCD41 CO₂/temp/RH + FS3000 airflow) on a Raspberry Pi 5
+- 3 custom PCBs: dual TCA9548A I²C multiplexers and P82B715 bus extenders for long sensor runs
+- Python → MariaDB logging, live Node-RED dashboard, custom electrical enclosure
+- 3-day study benchmarked against WHO, ASHRAE 55, OSHA and ICOP IAQ 2010 · code: [Indoor-Air-Quality-Monitor](https://github.com/ibrahimelsayed804/Indoor-Air-Quality-Monitor)
+
+<img src="./iaq-dashboard.jpg" width="520" alt="Node-RED IAQ dashboard">
+
 **1. Autonomous Navigation Stack (ROS 2)**
 - Modular C++ navigation libraries with EKF fusion of IMU and LiDAR
 - Stable localisation in GPS-denied environments
