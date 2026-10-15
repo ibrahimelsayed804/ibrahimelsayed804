@@ -25,7 +25,7 @@
 
 ### 👨‍💻 About me
 
-- 🔭 **Now:** Software Engineer, Systems Integration at **Heralds Investments** (Dubai): hardware-software integration layers and real-time DDS/MQTT telemetry for autonomous platforms
+- 🔭 **Most recently:** Software Engineer, Systems Integration at **Heralds Investments**, Dubai (Nov 2025 – Sep 2026): hardware-software integration layers and real-time DDS/MQTT telemetry for autonomous platforms
 - 🛠️ **Before:** Robotics intern at **Robopreneur**, validating service robots in live customer deployments · Cybersecurity intern at **SHRDC Smart Factory**, securing Raspberry Pi devices on an industrial network
 - 🎓 **B.Eng Mechatronics (Hons)**, University of Wollongong Malaysia, recognised under the **Washington Accord**
 - 💬 Ask me about **ROS 2, sensor fusion, IIoT and Linux edge devices**
