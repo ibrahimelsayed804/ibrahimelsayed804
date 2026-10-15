@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile-card-v3.svg" width="100%" alt="profile.sh: Ibrahim Elsayed, Robotics & Systems Integration Engineer, Dubai">
+  <img src="./profile-card-v4.svg" width="100%" alt="profile.sh: Ibrahim Elsayed, Robotics & Systems Integration Engineer, Dubai">
 </p>
 
 <h2 align="center">Welcome to my robotics workshop 🤖</h2>
@@ -40,6 +40,9 @@
   <img src="https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS 2">
   <img src="https://img.shields.io/badge/DDS-0b1026?style=flat-square" alt="DDS">
   <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" alt="MQTT">
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32">
+  <img src="https://img.shields.io/badge/ESP8266-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP8266">
+  <img src="https://img.shields.io/badge/LPC2148%20(ARM7)-0091BD?style=flat-square&logo=arm&logoColor=white" alt="LPC2148">
   <img src="https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA Jetson">
   <img src="https://img.shields.io/badge/PX4%20%2F%20Pixhawk-0b1026?style=flat-square" alt="PX4">
   <img src="https://img.shields.io/badge/Gazebo-ff8000?style=flat-square" alt="Gazebo">
