@@ -67,10 +67,22 @@
 - Stable localisation in GPS-denied environments
 - Custom ROS 2 nodes for deterministic message delivery
 
-**2. Humanoid Robot — ROBOTIS Bioloid (CM-530)**
+**2. IIoT Telemetry Gateway**
+- Real-time bridge streaming industrial sensor data to edge servers over MQTT
+- Under 50 ms end-to-end latency, running on a Raspberry Pi 5 with SQL storage
+
+**3. Containerised Autonomy Stack** (deployed)
+- Docker packaging so one build runs on 3+ edge server environments
+- DDS/MQTT health telemetry under 100 ms across nodes
+
+**4. Smart Factory Network Security** (deployed)
+- Linux and a firewall on every Raspberry Pi, subnetting, remote monitoring and control
+- Wazuh SIEM and Checkmk for security and health monitoring
+
+**5. Humanoid Robot — ROBOTIS Bioloid (CM-530)**
 - Assembled, wired and programmed a Bioloid humanoid on the CM-530 controller (ARM Cortex-M3) · code: [bioloid-humanoid-cm530](https://github.com/ibrahimelsayed804/bioloid-humanoid-cm530)
 
-**3. Trash Collection & Classification Machine** (prototype)
+**6. Trash Collection & Classification Machine** (prototype)
 - Motor-driven, multi-tier rotating sieve that separates mixed waste by size
 - A fixed guide wall sweeps sorted items off the tray into a collection bin
 
