@@ -58,7 +58,7 @@
 - Python → MariaDB logging, live Node-RED dashboard, custom electrical enclosure
 - 3-day study benchmarked against WHO, ASHRAE 55, OSHA and ICOP IAQ 2010 · code: [Indoor-Air-Quality-Monitor](https://github.com/ibrahimelsayed804/Indoor-Air-Quality-Monitor)
 
-<img src="./iaq-dashboard.jpg" width="520" alt="Node-RED IAQ dashboard">
+<img src="./iaq-dashboard-v2.jpg" width="520" alt="Node-RED IAQ dashboard">
 
 **1. Autonomous Navigation Stack (ROS 2)**
 - Modular C++ navigation libraries with EKF fusion of IMU and LiDAR
