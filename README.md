@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile-card-v10.svg" width="100%" alt="profile.sh: Ibrahim Elsayed, Robotics & Embedded Systems Engineer, Dubai">
+  <img src="./profile-card-v11.svg" width="100%" alt="profile.sh: Ibrahim Elsayed, Robotics & Embedded Systems Engineer, Dubai">
 </p>
 
 <h2 align="center">Welcome to my robotics workshop 🤖</h2>
