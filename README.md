@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./profile-card-v9.svg" width="100%" alt="profile.sh: Ibrahim Elsayed, Robotics & Systems Integration Engineer, Dubai">
+  <img src="./profile-card-v10.svg" width="100%" alt="profile.sh: Ibrahim Elsayed, Robotics & Embedded Systems Engineer, Dubai">
 </p>
 
 <h2 align="center">Welcome to my robotics workshop 🤖</h2>
-<h3 align="center">Robotics Engineer • Systems Integration • ROS 2 &amp; Sensor Fusion</h3>
+<h3 align="center">Robotics &amp; Embedded Systems Engineer • ROS 2 • Embedded C • Sensor PCBs</h3>
 <p align="center"><b>I build robots and the software that keeps them working outside the lab.</b></p>
 
 <p align="center">
@@ -21,14 +21,16 @@
   <a href="https://wa.me/971529243046"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p>
 
-📍 Based in **Dubai, UAE** · open to robotics, automation and systems integration roles
+📍 Based in **Dubai, UAE** · open to robotics, embedded systems and automation roles · [📄 Download my CV](https://ibrahimelsayed804.github.io/Ibrahim_Elsayed_CV.pdf)
 
 ### 👨‍💻 About me
 
 - 🔭 **Most recently:** Software Engineer, Systems Integration at **Heralds Investments**, Dubai (Nov 2025 – Sep 2026): hardware-software integration layers and real-time DDS/MQTT telemetry for autonomous platforms
-- 🛠️ **Before:** Robotics intern at **Robopreneur**, validating service robots in live customer deployments · Cybersecurity intern at **SHRDC Smart Factory**, securing Raspberry Pi devices on an industrial network
+- 🛠️ **Before:** Robotics intern at **Robopreneur**, validating service robots in live customer deployments · Cybersecurity intern at **SHRDC Smart Factory**, securing 12 Raspberry Pi devices on an industrial network
 - 🎓 **B.Eng Mechatronics (Hons)**, University of Wollongong Malaysia, recognised under the **Washington Accord**
-- 💬 Ask me about **ROS 2, sensor fusion, IIoT and Linux edge devices**
+- 🏛️ Student Member, **The Institution of Engineers, Malaysia (IEM)**
+- 💬 Ask me about **ROS 2, embedded C, I²C sensor buses and custom PCBs**
+- 🧗 Outside the lab: certified in bouldering and top-rope climbing
 
 ### 🧰 Tech stack
 
@@ -65,19 +67,10 @@
 - Stable localisation in GPS-denied environments
 - Custom ROS 2 nodes for deterministic message delivery
 
-**2. IIoT Telemetry Gateway**
-- Real-time bridge streaming industrial sensor data to edge servers over MQTT
-- Under 50 ms end-to-end latency, running on a Raspberry Pi 5 with SQL storage
+**2. Humanoid Robot — ROBOTIS Bioloid (CM-530)**
+- Assembled, wired and programmed a Bioloid humanoid on the CM-530 controller (ARM Cortex-M3) · code: [bioloid-humanoid-cm530](https://github.com/ibrahimelsayed804/bioloid-humanoid-cm530)
 
-**3. Containerised Autonomy Stack** (deployed)
-- Docker packaging so one build runs on 3+ edge server environments
-- DDS/MQTT health telemetry under 100 ms across nodes
-
-**4. Smart Factory Network Security** (deployed)
-- Linux and a firewall on every Raspberry Pi, subnetting, remote monitoring and control
-- Wazuh SIEM and Checkmk for security and health monitoring
-
-**5. Trash Collection & Classification Machine** (prototype)
+**3. Trash Collection & Classification Machine** (prototype)
 - Motor-driven, multi-tier rotating sieve that separates mixed waste by size
 - A fixed guide wall sweeps sorted items off the tray into a collection bin
 
